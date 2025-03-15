@@ -1,6 +1,6 @@
 ## InviseeAi App
 
-Using a healthcare data set stored in a PostgreSQL database, this InviseeAi app provides a series of data anonymization techniques, visualization, and machine learning simulations. The application simulates Federated Learning and Secure Multiparty Computation and enables users to apply K-anonymity, I-diversity, T-closeness, and Differential Privacy to the data.
+By Utilizing a healthcare data set stored in a PostgreSQL database, this InviseeAi app provides a series of data anonymization techniques, visualization, and machine learning simulations. The application simulates Federated Learning and Secure Multiparty Computation and enables users to apply K-anonymity, I-diversity, T-closeness, and Differential Privacy to the data.
 
 ## Overview 
 
