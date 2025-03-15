@@ -9,10 +9,10 @@ InviseeAi makes it possible for researchers and analysts to anonymize health dat
 
 ## Requirements
 
--A version of R (4.0 or later).
--R-studio, which is not necessary but highly recommended.
--The health_data table resides inside a Postgresql database.
-Packages that are required are `shiny`, `dplyr`, `tidyverse`, `DT`, `caret`, `plotly`, `RPostgres`, `shinydashboard`, and `shinythemes`.
+- R (version 4.0 or higher)
+- RStudio (optional but recommended)
+- PostgreSQL database with a `health_data` table
+- Required R packages: `shiny`, `dplyr`, `tidyverse`, `DT`, `caret`, `plotly`, `RPostgres`, `shinydashboard`, `shinythemes`
 
 
 
