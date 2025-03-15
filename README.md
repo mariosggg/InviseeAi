@@ -159,11 +159,12 @@ Anonymization Parameters: Use the sidebar sliders and text boxes to set various 
 
 ## Contributing
 
--Fork the repository.
--Your feature or bugfix as a new branch.
--Commit your changes and send explicit signals when you do so.
--Push your branch into the repository you've forked.
--In order to have your changes merged into the original repository, make a Pull Request.
+- Fork the repository.
+- Create a new branch for your feature or bugfix.
+- Make your changes and commit them with clear messages.
+- Push your branch to your forked repository.
+- Create a Pull Request to merge your changes into the main repository.
+
 
 ## Licence
 
