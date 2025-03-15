@@ -167,7 +167,7 @@ Anonymization Parameters: Use the sidebar sliders and text boxes to set various 
 
 ## Licence
 
-This project is licensed under the secured open called Project . Data can be found at https://secured-project.eu/secured_open_call/.
+This project is licensed under the secured open called Project . More Info for this Project can be found at https://secured-project.eu/secured_open_call/.
 
 ## Acknowledgements
 
