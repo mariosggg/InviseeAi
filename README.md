@@ -4,7 +4,9 @@ By Utilizing a healthcare data set stored in a PostgreSQL database, this Invisee
 
 ## Overview 
 
-InviseeAi makes it possible for researchers and analysts to anonymize health data and try out multiple data privacy methods. It even supports federated learning libraries and secure multiparty computation, thus sealing the bargain for data privacy and security.
+InviseeAi makes it possible for researchers and analysts to anonymize health data and try out multiple data privacy methods. It even supports federated learning libraries and secure multiparty computation, thus sealing the bargain for data privacy and security.The core development of InviseeAI is complete and fully functional, with ongoing enhancements planned to further improve performance, usability, and scalability.
+
+
 
 
 ## Requirements
